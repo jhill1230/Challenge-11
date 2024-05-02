@@ -36,7 +36,4 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 -View Existing Notes: You can easily access and view any existing note by clicking on it in the list on the left-hand side.
 New Note: Want to start afresh? Simply click on the "New Note" button in the navigation to clear the current fields and begin writing a new note.
 
-## Mock-Up
-
-![Note Taker](./IMG/Untitled_%20May%201,%202024%209_03%20PM%20(1).webm)
 
