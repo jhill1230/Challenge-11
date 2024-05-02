@@ -5,6 +5,7 @@ Note Taker is a simple yet efficient note-taking application designed to streaml
 
 ## User Story
 
+```
 AS A small business owner
 I WANT to be able to write and save notes
 SO THAT I can organize my thoughts and keep track of tasks I need to complete
@@ -30,6 +31,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 ## Feature
 
+```
 -Notes Page: Clicking on the link takes you to the notes page, where existing notes are listed in the left-hand column. On the right-hand side, you'll find empty fields to enter a new note title and its text.
 -Save and Clear: After entering your note, convenient navigation buttons appear at the top of the page, allowing you to save your note or clear the form.
 -Save Note: Clicking on the "Save Note" button saves your newly entered note, seamlessly integrating it into the list of existing notes.
